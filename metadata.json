@@ -1,0 +1,6 @@
+{
+  "name": "رتب حالك",
+  "description": "تطبيق شخصي ذكي لإدارة وتنظيم المحتوى والمعلومات الشخصية في مكان واحد مع التشفير الأمني العالي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
